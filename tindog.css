@@ -1,0 +1,149 @@
+#title{
+     background-color: #dc143c;
+
+}
+#testimonials{
+     background-color: #fc4c6c ;
+    
+     text-align:center;
+}
+.carousel-item{
+    padding:4% 8%;
+
+}
+#cta{
+    background-color:  #fc4c6c ;
+    text-align-last: center;
+    font-size: large;
+    font-weight: bolder;
+    padding: 8% 15%;
+}
+#footer{
+    text-align-last: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+#press{
+    padding-bottom: 4%;
+    text-align-last: center;
+    background-color: #fc4c6c;
+}
+#pricing{
+    text-align-last: center;
+    padding:4% 8%;
+}
+.price-head{
+    color: black;
+}
+.navbar bg-dark navbar-expand-lg navbar-dark{
+    text-align: right;
+}
+.top{
+    text-align: left;
+    
+}
+#features{
+    text-justify: auto;
+}
+h1{
+    font-family: 'Goblin One', cursive;
+    font-size: 4.5 rem;
+    line-height: 1.5;
+    color: white;
+    font-weight: bolder;
+    padding-bottom: 2.5rem;
+
+}
+h2{ 
+   
+    text-align-last: center;
+    font-weight: bolder;
+    color: white;
+    font-size: 3 rem;
+    line-height: 1.5;
+    font-family: 'Goblin One', cursive;
+
+}
+h3{
+    font-weight: bolder;
+    padding-top: 3%;
+    padding-bottom: 6%;
+    font-family: 'Goblin One', cursive;
+}
+.container-fluid{
+    padding-left: 7%;
+    
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.navbar{
+    padding-bottom: 0 0 4.5 rem;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    padding-bottom: 2.5 rem;
+    
+
+}
+.nav-item{
+    padding: 0 18px;
+    font-size: 2 rem;
+}
+.title-image{
+    transform: rotate(25deg);
+}
+.fas fa-check-circle{
+    align-self: center;
+    color:#dc143c ;
+    cursor:pointer;
+    outline:none;
+}
+#features{
+    padding: 7% 8%;
+}
+.feat{
+    text-align:center ;
+}
+
+.icons{
+    color: #dc143c;
+}
+.icons:hover{
+    color: deeppink;
+}
+.fab:hover{
+    color:#dc143c;
+}
+.fas:hover{
+    color: #dc143c;
+}
+.fab{
+    padding-bottom: 3%;
+}
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+    
+}
+.logos{
+    width: 15%;
+    margin: 20px 20px 30px;
+}
+.base{
+    color: white;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.btn{
+    text-decoration: none;
+}
+.freeText{
+    color: black;
+}
+.planHead{
+    padding-bottom: 6px;
+}
+
+
+
