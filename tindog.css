@@ -44,6 +44,10 @@
 }
 #features{
     text-justify: auto;
+    position: relative;
+    background-color: white;
+    z-index: 1;
+
 }
 h1{
     font-family: 'Goblin One', cursive;
@@ -71,10 +75,10 @@ h3{
     font-family: 'Goblin One', cursive;
 }
 .container-fluid{
-    padding-left: 7%;
-    
-    padding-top: 3%;
-    padding-bottom: 3%;
+     padding-left: 7%;
+
+    padding-top: 5%;
+    padding-bottom: 8%;
 }
 .navbar{
     padding-bottom: 0 0 4.5 rem;
@@ -91,6 +95,8 @@ h3{
 }
 .title-image{
     transform: rotate(25deg);
+    position:absolute;
+    
 }
 .fas fa-check-circle{
     align-self: center;
