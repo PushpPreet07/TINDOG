@@ -50,7 +50,7 @@
 
 }
 h1{
-    font-family: 'Goblin One', cursive;
+    
     font-size: 4.5 rem;
     line-height: 1.5;
     color: white;
@@ -65,14 +65,14 @@ h2{
     color: white;
     font-size: 3 rem;
     line-height: 1.5;
-    font-family: 'Goblin One', cursive;
+    
 
 }
 h3{
     font-weight: bolder;
     padding-top: 3%;
     padding-bottom: 6%;
-    font-family: 'Goblin One', cursive;
+    
 }
 .container-fluid{
      padding-left: 7%;
@@ -150,6 +150,16 @@ h3{
 .planHead{
     padding-bottom: 6px;
 }
+@media(max-width:1028px){
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+}
+
 
 
 
